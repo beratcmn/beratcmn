@@ -1,6 +1,6 @@
 <h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-### :smiley_face: I am a student at Kocaeli University studying Mechanical Engineering.
+### 🤖 I am a student at Kocaeli University studying Mechanical Engineering.
 
 ### so, curently this is my first try making my readme, hope you like it 😄
 
