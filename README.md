@@ -6,7 +6,7 @@
 
 ### 🔭 Currently working on AI
 
-### 🌷 Learning Tensorflow
+### 🔥 Learning PyTorch
 
 <br>
 
